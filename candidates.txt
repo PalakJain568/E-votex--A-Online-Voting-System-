@@ -1,0 +1,2 @@
+C001|Candidate A|Party A|2
+C002|Candidate B|Party B|0
